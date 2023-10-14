@@ -1,0 +1,1 @@
+<img src="{{ asset('logo-admin.svg') }}" style="width: 50px;" alt="Custom Logo" />
