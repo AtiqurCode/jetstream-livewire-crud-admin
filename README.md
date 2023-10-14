@@ -40,12 +40,7 @@ DB_USERNAME={user_name}
 DB_PASSWORD={password}
 ```
 
-## Code line 
-
-First, install the livewire package
-```
-composer require livewire/livewire
-```
+## Command line 
 
 Now run the migrate and app run command via the terminal
 ```
