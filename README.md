@@ -45,7 +45,7 @@ DB_PASSWORD={password}
 First, install the livewire package
 ```
 composer require livewire/livewire
-``
+```
 
 Now run the migrate and app run command via the terminal
 ```
